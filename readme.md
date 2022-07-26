@@ -1,0 +1,1 @@
+Super simple weather app using the openweather api to display the weather data for the entered city or country. It just uses plain javascript to do this, however if it were a more secure application, preferably a backend programming language would be much better.
